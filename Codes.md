@@ -1,3 +1,2 @@
 
-Does this work?
-Yes it does
+It works.
